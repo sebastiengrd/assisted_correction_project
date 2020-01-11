@@ -1,4 +1,6 @@
 # Assisted correction
+![Demonstration](https://sebastiengrd.github.io/images_for_other_projects/Screenshot.png)
+
 
 ## Introduction
 
